@@ -1,0 +1,16 @@
+C:\Users\mvsan\source\repos\MoodAnlyzerReflection\MoodAnlyzerReflection\bin\Debug\net5.0\MoodAnlyzerReflection.exe
+C:\Users\mvsan\source\repos\MoodAnlyzerReflection\MoodAnlyzerReflection\bin\Debug\net5.0\MoodAnlyzerReflection.deps.json
+C:\Users\mvsan\source\repos\MoodAnlyzerReflection\MoodAnlyzerReflection\bin\Debug\net5.0\MoodAnlyzerReflection.runtimeconfig.json
+C:\Users\mvsan\source\repos\MoodAnlyzerReflection\MoodAnlyzerReflection\bin\Debug\net5.0\MoodAnlyzerReflection.runtimeconfig.dev.json
+C:\Users\mvsan\source\repos\MoodAnlyzerReflection\MoodAnlyzerReflection\bin\Debug\net5.0\MoodAnlyzerReflection.dll
+C:\Users\mvsan\source\repos\MoodAnlyzerReflection\MoodAnlyzerReflection\bin\Debug\net5.0\ref\MoodAnlyzerReflection.dll
+C:\Users\mvsan\source\repos\MoodAnlyzerReflection\MoodAnlyzerReflection\bin\Debug\net5.0\MoodAnlyzerReflection.pdb
+C:\Users\mvsan\source\repos\MoodAnlyzerReflection\MoodAnlyzerReflection\obj\Debug\net5.0\MoodAnlyzerReflection.csproj.AssemblyReference.cache
+C:\Users\mvsan\source\repos\MoodAnlyzerReflection\MoodAnlyzerReflection\obj\Debug\net5.0\MoodAnlyzerReflection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mvsan\source\repos\MoodAnlyzerReflection\MoodAnlyzerReflection\obj\Debug\net5.0\MoodAnlyzerReflection.AssemblyInfoInputs.cache
+C:\Users\mvsan\source\repos\MoodAnlyzerReflection\MoodAnlyzerReflection\obj\Debug\net5.0\MoodAnlyzerReflection.AssemblyInfo.cs
+C:\Users\mvsan\source\repos\MoodAnlyzerReflection\MoodAnlyzerReflection\obj\Debug\net5.0\MoodAnlyzerReflection.csproj.CoreCompileInputs.cache
+C:\Users\mvsan\source\repos\MoodAnlyzerReflection\MoodAnlyzerReflection\obj\Debug\net5.0\MoodAnlyzerReflection.dll
+C:\Users\mvsan\source\repos\MoodAnlyzerReflection\MoodAnlyzerReflection\obj\Debug\net5.0\ref\MoodAnlyzerReflection.dll
+C:\Users\mvsan\source\repos\MoodAnlyzerReflection\MoodAnlyzerReflection\obj\Debug\net5.0\MoodAnlyzerReflection.pdb
+C:\Users\mvsan\source\repos\MoodAnlyzerReflection\MoodAnlyzerReflection\obj\Debug\net5.0\MoodAnlyzerReflection.genruntimeconfig.cache

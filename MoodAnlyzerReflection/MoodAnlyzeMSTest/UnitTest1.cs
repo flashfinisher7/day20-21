@@ -38,5 +38,26 @@ namespace MoodAnalyseMsTest
             Assert.AreEqual(expected, actual);
 
         }
+        public void GiveInvokeMethodThrowException()
+        {
+
+            string actual;
+            string message = "I am in a Happy mood";
+            string methodName = "Mood";
+            string expected = "Happy";
+
+
+            try
+            {
+                MoodAnalyser ma = new MoodAnalyser();
+                actual = ma.InvokeMethod(methodName, message);
+            }
+            catch (CustomAnalyse e)
+            {
+                throw new Exception(e.Message);
+            }
+            Assert.AreEqual(expected, actual);
+
+        }
     }
 }
